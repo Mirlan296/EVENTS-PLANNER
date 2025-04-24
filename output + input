@@ -50,7 +50,7 @@ password: qwerty
 3 - delete the plan
 4 - exit
 -------------------
-1
+--1--
 1 walk
 press any key to continue
 
@@ -60,7 +60,7 @@ press any key to continue
 3 - delete the plan
 4 - exit
 -------------------
-2
+--2--
 1. 1 walk
 press any key to continue
 
@@ -70,7 +70,7 @@ press any key to continue
 3 - delete the plan
 4 - exit
 -------------------
-3
+--3--
 what number of plan do you want to delete?
 1
 press any key to continue
@@ -81,7 +81,7 @@ press any key to continue
 3 - delete the plan
 4 - exit
 -------------------
-2
+--2--
 press any key to continue
 
 -------------------
@@ -90,7 +90,7 @@ press any key to continue
 3 - delete the plan
 4 - exit
 -------------------
-4
+--4--
 you want to exit?
 1 - yes
 2 - no
