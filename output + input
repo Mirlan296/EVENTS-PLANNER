@@ -1,0 +1,100 @@
+1 - sign up
+2 - sign in
+----------------
+--1--
+----------------
+login: mka
+----------------
+email: mka@gmail.com
+---------------------------------------------------
+length of password must be longer than/or 4 symbols
+in password must include a letter
+space is not valuable
+---------------------------------------------------
+password: 321
+this password is not permitted
+---------------------------------------------------
+length of password must be longer than/or 4 symbols
+in password must include a letter
+space is not valuable
+---------------------------------------------------
+password: pas
+this password is not permitted
+---------------------------------------------------
+length of password must be longer than/or 4 symbols
+in password must include a letter
+space is not valuable
+---------------------------------------------------
+password: 5164654
+this password is not permitted
+---------------------------------------------------
+length of password must be longer than/or 4 symbols
+in password must include a letter
+space is not valuable
+---------------------------------------------------
+password: qwerty
+repeat password: qwerty
+Файл создан
+----------------------------
+login: nurd
+this login is not exist
+------------------------------
+login: mka
+password: train
+------------------------------
+this password is incorrect
+password: qwerty
+------------------------------
+1 - create the plan
+2 - read the plan
+3 - delete the plan
+4 - exit
+-------------------
+1
+1 walk
+press any key to continue
+
+-------------------
+1 - create the plan
+2 - read the plan
+3 - delete the plan
+4 - exit
+-------------------
+2
+1. 1 walk
+press any key to continue
+
+-------------------
+1 - create the plan
+2 - read the plan
+3 - delete the plan
+4 - exit
+-------------------
+3
+what number of plan do you want to delete?
+1
+press any key to continue
+
+-------------------
+1 - create the plan
+2 - read the plan
+3 - delete the plan
+4 - exit
+-------------------
+2
+press any key to continue
+
+-------------------
+1 - create the plan
+2 - read the plan
+3 - delete the plan
+4 - exit
+-------------------
+4
+you want to exit?
+1 - yes
+2 - no
+1
+see you again
+
+Process finished with exit code 0
