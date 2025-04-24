@@ -1,0 +1,41 @@
+1 - sign up
+2 - sign in
+--------------
+login:
+--------------
+email:
+--------------
+length of password must be longer than/or 4 symbols
+in password must include a letter
+space is not valuable
+------------------------------------------------------
+password:
+-------------
+this password is not permitted
+------------------------
+password: 
+repeat password:
+-------------------------
+login: 
+this login is not exist
+-------------------------
+login: 
+password: 
+this password is incorrect
+-------------------------
+password: 
+-------------------
+1 - create the plan
+2 - read the plan
+3 - delete the plan
+4 - exit
+-------------------
+press any key to continue
+--------------------------
+what number of plan do you want to delete?
+-------------------
+do you want to exit?
+1 - yes
+2 - no
+-------------------
+see you again
