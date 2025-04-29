@@ -102,5 +102,5 @@ Another important task
 - Add date/time tracking for plan items
 - Develop graphical user interface (GUI)
 - --------------------------------------
-PRESENTATION ---> 
+PRESENTATION ---> (https://www.canva.com/design/DAGk7ATptec/P8WQY-pz87qzfXnQTZz0vA/edit?utm_content=DAGk7ATptec&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
